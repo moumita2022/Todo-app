@@ -1,0 +1,21 @@
+{
+  "name": "mernapp",
+  "version": "1.0.0",
+  "description": "- Full stack application using MERN stack. - We want to deploy as one app on heroku in future. - Structure ,Need to take care of the structure of the application.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.0"
+  }
+}
